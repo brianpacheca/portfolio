@@ -91,42 +91,38 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Polytechnic University of the Philippines - Binan Campus
+Bachelor of Science in Information Technology - 2022
+Best Capstone award entitled - Student Counselling Appoinment and Violation Management System. President of Organization. GPA - 1.75
+
+Polytechnic University of the Philippines - Open University
+Masters in Information Technology - Present
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Associate Software Quality Assurance
+Qstrike Innovations Phils OPC
+2023 — Present
+Developed and maintained automation frameworks using Selenium and Python. Spearheaded the automated performance testing using Jmeter and Blazemeter. Certified more than 100 deployments or releases with no rollbacks or reverts.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Technical Support Specialist
+Theoria Medical
+2022 — 2023
+Conducted exploratory testing all throughout the in-house application. Reported any bugs that were present in Production Site and interfering the User Workflow. Firsthand experience in healthcare workflows and systems.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 My skills
 
-Web design
+Manual Functional Testing
 80%
-Graphic design
+Automation Tools
 70%
-Branding
+Non - Functional Testing
+70%
+Defect Management
 90%
-WordPress
-50%
 
 
 
@@ -229,7 +225,7 @@ Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
 
 Contact
 
-Contact Form
+Please Contact Me Through My Socials
 
 Full name
 Email address
